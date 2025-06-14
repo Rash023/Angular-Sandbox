@@ -3,7 +3,7 @@
 This is the **frontend** of the Employee Management System, built using **Angular**.  
 It interacts with a **Spring Boot backend** to perform full-stack CRUD operations on employee records.
 
-👉 **Backend Repository:** [EmployeeManagementBackend (Spring Boot)](https://github.com/Rash023/Springboot-Sandbox/EmpManagementBackend)
+👉 **Backend Repository:** [EmployeeManagementBackend (Spring Boot)](https://github.com/Rash023/Springboot-Sandbox/tree/main/EmpManagementBackend))
 
 ## Development server
 
